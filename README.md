@@ -78,34 +78,6 @@ SCREENSHOTS:
  
  
 INVENTORY MANAGEMENT SYSTEM EXECUTION SNAPSHOT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CONCLUSION 
-
-The Inventory Management System is developed and designed for recording and managing the inventory of an organization. It can also be used for different institution with fewer modification as per requirement. the system can be easily updated as the other institutional requirement may not be integrated on our project . After the continuous effort , testing and debugging the current system is ready to be implemented in an organization.
 ![Screenshot (9)](https://github.com/ranjithn2k2/inventory-management-system/assets/130213035/9a15456f-656b-46ca-9218-d226636945f0)
 ![Screenshot (10)](https://github.com/ranjithn2k2/inventory-management-system/assets/130213035/0bdc1c4c-dd1c-4b65-a032-e5402ccd38f5)
 ![Screenshot (3)](https://github.com/ranjithn2k2/inventory-management-system/assets/130213035/e6d1f1c0-b99d-400d-9780-2139432fc7e5)
@@ -114,3 +86,6 @@ The Inventory Management System is developed and designed for recording and mana
 ![Screenshot (6)](https://github.com/ranjithn2k2/inventory-management-system/assets/130213035/36ebe786-a0c5-40c1-9078-028b483a5291)
 ![Screenshot (7)](https://github.com/ranjithn2k2/inventory-management-system/assets/130213035/0b60f659-3825-45b2-88ee-ed2edcc92864)
 ![Screenshot (8)](https://github.com/ranjithn2k2/inventory-management-system/assets/130213035/1bdce2ce-e140-423d-8019-bfb44c49b7b8)
+CONCLUSION 
+
+The Inventory Management System is developed and designed for recording and managing the inventory of an organization. It can also be used for different institution with fewer modification as per requirement. the system can be easily updated as the other institutional requirement may not be integrated on our project . After the continuous effort , testing and debugging the current system is ready to be implemented in an organization.
